@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f85ec539-3a5a-4a85-89e3-a13f268efc39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance and Polymorphism W6/class_problems/Problem1/StudentMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance and Polymorphism W6/class_problems/Problem2/FacultyMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance and Polymorphism W6/class_problems/Problem2/HonorsStudentMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance and Polymorphism W6/class_problems/Problem2/MembershipTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance and Polymorphism W6/class_problems/Problem3/LibraryMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance and Polymorphism W6/class_problems/Problem3/StudentMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance and Polymorphism W6/class_problems/Problem4/LibraryMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance and Polymorphism W6/class_problems/Problem4/StudentMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance and Polymorphism W6/assignment_problems/GymMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance and Polymorphism W6/assignment_problems/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance and Polymorphism W6/assignment_problems/MembershipNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance and Polymorphism W6/assignment_problems/MonthlyAttendance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance and Polymorphism W6/assignment_problems/PremiumLoyalitymembership.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,19 +36,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature/session__5&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "feature/session__6",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\susaa\OneDrive\Step_semester_3\src\main\java\Inheritance and Polymorphism W6\class_problems" />
